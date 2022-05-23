@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewProject</string>
+    <string name="InternetError">No Internet Connection Found!</string>
+</resources>
